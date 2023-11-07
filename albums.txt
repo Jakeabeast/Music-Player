@@ -1,0 +1,88 @@
+7
+Neil Diamond 
+Greatest Hits
+images/neil_diamond.png
+2
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds/06-Soolaimon.wav
+Sweet Caroline
+sounds/20-Sweet_Caroline.wav
+Platters
+Greatest Hits
+images/greatest_hits.png
+1
+2
+Twilight Time
+sounds/01-Twilight_Time.wav
+The Great Pretender
+sounds/10-The_Great_Pretender.wav
+Don McClean
+American Pie
+images/american_pie.png
+2
+0
+Carly Simon
+No Secrets
+images/no_secrets.png
+2
+3
+The Carter Family
+sounds/02-The_Carter_Family.wav
+Your So Vain
+sounds/03-Youre_So_Vain.wav
+Embrace me You Child
+sounds/06-Embrace_Me_You_Child.wav
+Polly Bergen
+The Party's Over
+images/the_partys_over.png
+3
+3
+But Not for Me
+sounds/05-But_Not_for_Me.wav
+You'll Never Know
+sounds/08-Youll_Never_Know.wav
+You Don't Know What Love Is 
+sounds/12-You_Dont_Know_What_Love_Is.wav
+AC DC
+Highway to Hell
+images/highway_to_hell.png
+4
+10
+Highway to Hell
+sounds/01-Highway_to_Hell.mp3
+Girls Got Rhythm
+sounds/02-Girls_Got_Rhythm.wav
+Walk All Over You
+sounds/03-Walk_All_Over_You.wav
+Touch Too Much
+sounds/04-Touch_Too_Much.wav
+Beating Around the Bush
+sounds/05-Beating_Around_the_Bush.wav
+Shot Down in Flames
+sounds/06-Shot_Down_in_Flames.wav
+Get It Hot
+sounds/07-Get_It_Hot.wav
+If You Want Blood
+sounds/08-If_You_Want_Blood.wav
+Love Hungry Man
+sounds/09-Love_Hungry_Man.wav
+Night Prowler
+sounds/10-Night_Prowler.wav
+John Coltrane
+Blue Train
+images/blue_train.png
+3
+5
+Blue Train
+sounds/01-blue_train.wav
+Moment's Notice
+sounds/02-moments_notice.wav
+Locomotion
+sounds/03-location.wav
+I'm Old Fashioned
+sounds/04-im_old_fashioned.wav
+Lazy Bird
+sounds/05-lazy_bird.wav
